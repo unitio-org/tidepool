@@ -1,0 +1,42 @@
+[
+  {
+    "emailVerified": true,
+    "emails": [
+      "test+137@tidepool.org"
+    ],
+    "termsAccepted": "2016-07-14T11:00:01-07:00",
+    "userid": "12345",
+    "username": "test+137@tidepool.org",
+    "trustorPermissions": {
+      "note": {},
+      "view": {}
+    },
+    "profile": {
+      "fullName": "Test 137",
+      "patient": {
+        "birthday": "2000-01-01",
+        "diagnosisDate": "2010-01-01"
+      }
+    }
+  },
+  {
+    "emailVerified": true,
+    "emails": [
+      "test+031@tidepool.org"
+    ],
+    "termsAccepted": "2016-07-13T10:35:21-07:00",
+    "userid": "123456",
+    "username": "test+031@tidepool.org",
+    "trustorPermissions": {
+      "note": {},
+      "view": {}
+    },
+    "profile": {
+      "fullName": "Test 031",
+      "patient": {
+        "birthday": "2000-01-01",
+        "diagnosisDate": "2010-01-01"
+      }
+    }
+  }
+]
