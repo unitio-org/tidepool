@@ -8,6 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Tidepool::VERSION
   spec.authors       = ["Daniel Nolan"]
   spec.email         = ["dnolan@unitio.io"]
+  spec.license       = "GPL-3"
 
   spec.summary       = "Ruby wrapper for Tidepool API"
   spec.homepage      = "https://github.com/unitio-org/tidepool"

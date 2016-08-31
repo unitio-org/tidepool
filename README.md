@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 ```ruby
-  response = Tidepool::Client.login(username: your_username password: your_password)
+  response = Tidepool::Client.login(username: your_username, password: your_password)
   user_id = response["user_id"]
   session_token = response.headers["x-tidepool-session-token"]
 
