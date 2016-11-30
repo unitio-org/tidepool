@@ -2,7 +2,7 @@
 
 Ruby wrapper for Tidepool API over HTTP
 
-<img src="https://travis-ci.org/unitio-org/tidepool.svg?branch=master" />
+[![Build Status](https://travis-ci.org/unitio-org/tidepool.svg?branch=master)](https://travis-ci.org/unitio-org/tidepool)
 
 ## Installation
 
