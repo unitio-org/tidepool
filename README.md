@@ -55,3 +55,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/unitio-org/tidepool.
 
+## Acknowledgement
+
+If use of this library results in any publications, please acknowledge this work.
+
