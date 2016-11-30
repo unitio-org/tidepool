@@ -2,6 +2,8 @@
 
 Ruby wrapper for Tidepool API over HTTP
 
+<img src="https://travis-ci.org/unitio-org/tidepool.svg?branch=master" />
+
 ## Installation
 
 Add this line to your application's Gemfile:
