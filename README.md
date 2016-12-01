@@ -59,7 +59,7 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/unitio
 
 ## Citation
  
-T1D Exchange – Tidepool client library: An open source Ruby wrapper for the Tidepool API over HTTP, Boston MA.  URL: https://t1dexchange.org
+T1D Exchange – Tidepool client library: An open source Ruby wrapper for the Tidepool API over HTTP, Boston MA.  URL: https://github.com/unitio-org/tidepool
  
 ## Acknowledgment
  
