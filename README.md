@@ -57,7 +57,10 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/unitio-org/tidepool.
 
-## Acknowledgement
-
-If use of this library results in any publications, please acknowledge this work.
-
+## Citation
+ 
+T1D Exchange – Tidepool client library: An open source Ruby wrapper for the Tidepool API over HTTP, Boston MA.  URL: https://t1dexchange.org
+ 
+## Acknowledgment
+ 
+Thanks to T1D Exchange ( https://t1dexchange.org ) for their open source Tidepool API client ( https://github.com/unitio-org/tidepool ) that was used to retrieve data from the Tidepool platform. All analyses, content and conclusions presented herein are solely the responsibility of the authors and have not been reviewed or approved by the T1D Exchange.
