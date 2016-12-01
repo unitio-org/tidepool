@@ -64,3 +64,8 @@ T1D Exchange – Tidepool client library: An open source Ruby wrapper for the Ti
 ## Acknowledgment
  
 Thanks to T1D Exchange ( https://t1dexchange.org ) for their open source Tidepool API client ( https://github.com/unitio-org/tidepool ) that was used to retrieve data from the Tidepool platform. All analyses, content and conclusions presented herein are solely the responsibility of the authors and have not been reviewed or approved by the T1D Exchange.
+
+## About T1D Exchange/Unitio
+Ruby Tidepool wrapper is maintained and funded by T1D Exchange. The names and logos for T1D Exchange/Unitio are trademarks of Unitio, inc.   
+https://t1dexchange.org  
+https://unitio.org
